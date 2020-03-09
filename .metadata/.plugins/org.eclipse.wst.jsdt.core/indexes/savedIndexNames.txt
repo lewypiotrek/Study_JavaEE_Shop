@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+D:\!STUDIA\4.Aplikacje_bazodanowe_java\ZALICZENIE\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4164355363.index
+3883857437.index
+1905853351.index
+1286555631.index
+383641943.index
+567900895.index

@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+D:\!STUDIA\4.Aplikacje_bazodanowe_java\ZALICZENIE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2938873478.index
+\Shop\src
+D:\!STUDIA\4.Aplikacje_bazodanowe_java\ZALICZENIE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2333159865.index
+\Shop\src
